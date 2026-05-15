@@ -44,13 +44,14 @@
 - **먹거리 가격 통일화** (바가지 논란 해결)
 
 ## 📁 파일 구성
-├── notebooks/
-│   └── jeonju_tourism_analysis.ipynb
-├── images/
-│   ├── regression_result.png
-│   ├── wordcloud_festival.png
-│   └── dashboard.png
-└── README.md
+
+    notebooks/
+    └── jeonju_tourism_analysis.ipynb
+    images/
+    ├── regression_result.png
+    ├── wordcloud_festival.png
+    └── dashboard.png
+    README.md
 
 ## 👤 담당 역할
 
