@@ -44,12 +44,10 @@
 
 ## 📁 파일 구성
 
-    notebooks/
-    └── jeonju_tourism_analysis.ipynb
-    images/
-    ├── regression_result.png
-    ├── wordcloud_festival.png
-    └── dashboard.png
+    jeonju_tourism_regression.ipynb   ← 분석 코드
+    JJ-tourism_data_(230612).xlsx     ← 원본 데이터
+    JJ-tourism-report_(2306).docx     ← 분석 보고서
+    JJ-tourism-PPT.pdf                ← 발표 자료
     README.md
 
 ## 👤 담당 역할
