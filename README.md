@@ -43,3 +43,18 @@
 - **먹거리 가격 통일화** (바가지 논란 해결)
 
 ## 📁 파일 구성
+├── notebooks/
+│   └── jeonju_tourism_analysis.ipynb
+├── images/
+│   ├── regression_result.png
+│   ├── wordcloud_festival.png
+│   └── dashboard.png
+└── README.md
+
+## 👤 담당 역할
+
+3인 팀 | 프로젝트 리더
+- 비교 지역 선정 기준 설계
+- 데이터 수집·정제·선형 회귀 모델 구현
+- 텍스트 마이닝·워드클라우드 시각화
+- 발표 자료 주도 제작
